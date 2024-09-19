@@ -3,7 +3,7 @@ ini adalah percobaaan pertama
 Pada tahap ini saya akan belaja mengenai semua sintaksis darasr bahasa pemrograman terdiri dari :
 1. Sekuensial : langkah berurutan
 2. Percabangan : langkah melompat jika kondisi terpenuhi
-3. Perulangan : mengulang langkah yang sama berkali-kalo selama/sampai kondisi terpenuhi
+3. Perulangan : mengulang langkah yang sama berkali-kali selama/sampai kondisi terpenuhi
 """
 
 #1. Sekuensial
